@@ -10,5 +10,6 @@ Package: afterburner-neofetch-theme
 Architecture: all
 Multi-Arch: foreign
 Depends: afver, bash
+Conflicts: neofetch
 Description: Afterburner Neofetch Theme
  Afterburner Neofetch Theme
