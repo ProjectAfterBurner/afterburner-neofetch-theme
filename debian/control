@@ -1,0 +1,14 @@
+Source: afterburner-neofetch-theme
+Section: utils
+Priority: optional
+Maintainer: Ryan Fortner <ryankfortner@gmail.com>
+Build-Depends: bash
+Standards-Version: 4.1.4
+Homepage: https://github.com/ProjectAfterBurner/afterburner-neofetch-theme
+
+Package: afterburner-neofetch-theme
+Architecture: all
+Multi-Arch: foreign
+Depends: afver, bash
+Description: Afterburner Neofetch Theme
+ Afterburner Neofetch Theme
