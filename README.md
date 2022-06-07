@@ -1,1 +1,0 @@
-# afterburner-neofetch-theme
